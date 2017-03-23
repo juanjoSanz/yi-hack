@@ -75,7 +75,7 @@ You will need to set a static IP adresse to the camera. To check for the availab
 
 To configure the wifi network to use, edit the file **test/wpa_supplicant.conf**.
 
-To configure your IP address, open the file **test/yi-hack.cfg** and set the values.
+To configure your IP address, open the file **test/yi-hack.cfg** and set the values OR use **dhcp** option.
 
 Start the camera
 ----------------
