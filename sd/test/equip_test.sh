@@ -440,6 +440,8 @@ ps | grep rtspsvr | grep -v grep >> ${LOG_FILE}
 
 sleep 5
 
+### Start check_motion.sh script
+/home/hd1/test/check_motion.sh &
 
 ### List the processes after startup
 log "Processes after startup :"
