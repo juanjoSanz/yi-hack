@@ -1,4 +1,18 @@
 ===============
+JJ Changes
+===============
+
+- Scripts to deploy changes in several Cameras ( with ftp and telnet already active)
+  Req. curl + expect
+
+- Wiki: desired changes and ideas
+
+....
+....
+
+
+
+===============
 Yi-hack project
 ===============
 
